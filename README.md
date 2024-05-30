@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A new Flutter project By Rodrigo Elyel.
 
 ## Getting Started
 
